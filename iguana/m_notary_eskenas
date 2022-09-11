@@ -33,6 +33,8 @@ curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"ad
 curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"addnotary\",\"ipaddr\":\"135.125.235.229\"}"
   
 # add coins
+# add KMD 
+coins/kmd_7776
 ./wp_7776
 coins/eskenas1_7776
 
