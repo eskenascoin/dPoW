@@ -1,5 +1,5 @@
 {
-"port": 12247,
+"port": 18247,
 "BTCminsigs": 13,
 "minsigs": 13,
 "seeds": [
@@ -20,7 +20,7 @@
         "146.59.95.6",
         "135.125.235.229"
 ],
-"notaries": [ 
+"notaries": [
         {"eskenas_notary_0": "031cfdf6494195899518e7657802bfd9bd83187a7740241195496341813cee9962"},
         {"eskenas_notary_1": "027ed30fe736a0697f376582f60fa7f5adaee12e2518b99ae599447a00256afb73"},
         {"eskenas_notary_2": "022c89431ed6257344266b0b8d43fae2a0493cf8b1fa13e9ee12eb17f17bc89dfd"},

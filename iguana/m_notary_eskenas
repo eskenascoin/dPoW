@@ -36,10 +36,10 @@ curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"ad
 # add KMD 
 coins/kmd_7776
 ./wp_7776
-coins/eskenas1_7776
+coins/eskenas_7776
 
 sleep 30
 
 # dpow for ESKENAS
-curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"dpow\",\"symbol\":\"ESKENAS1\",\"pubkey\":\"$pubkey\"}"
+curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"dpow\",\"symbol\":\"ESKENAS\",\"pubkey\":\"$pubkey\"}"
 
