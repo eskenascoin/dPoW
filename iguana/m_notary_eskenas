@@ -41,5 +41,5 @@ coins/eskenas_7776
 sleep 30
 
 # dpow for ESKENAS
-curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"dpow\",\"symbol\":\"ESKENAS\",\"pubkey\":\"$pubkey\"}"
+curl --url "http://127.0.0.1:7776" --data "{\"agent\":\"iguana\",\"method\":\"dpow\",\"symbol\":\"ESKENAS\",\"freq\":5,\"pubkey\":\"$pubkey\"}"
 
